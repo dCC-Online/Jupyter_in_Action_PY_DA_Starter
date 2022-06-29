@@ -2,11 +2,11 @@
 
 ## INTRODUCTION
 
-This assignment will give you practice working within a Jupyter Notebook
+This assignment will give you practice working within a Jupyter Notebook, combining Markdown and Python together in a single file!
 
-Begin with the `Jupyter_In_Action.ipynb` file
+Begin with the `Jupyter_In_Action.ipynb` file.
 
-If you finish early, there is a bonus assignment included in the `BONUS_Jupyter_Problem_Solving_Problems.ipynb` file
+If you finish early, there is a bonus assignment included in the `BONUS_Jupyter_Problem_Solving_Problems.ipynb` file.
 
 ---
 
